@@ -1,0 +1,38 @@
+body {
+    display:contents;
+}
+
+nav {
+   float:right; 
+}
+section {
+    text-align: center;
+    margin-top:300px;
+}
+.input-size {
+    width:500px;
+    height:40px;
+    border-radius: 30px;
+    border:none;  
+    border:1px solid gainsboro;
+    padding-left:40px ;
+
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    background-color: #f2f2f2;
+    width:100%;
+}
+
+.text-size{
+    font-size: 20pt;
+}
+.right {
+    float:right;
+}
+.search {
+    position: relative;
+    left:40px;
+}
